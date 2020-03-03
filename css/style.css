@@ -1,3 +1,21 @@
 ul{
-  font-family: 'Pacifico';
+  font-family: 'Comfortaa';
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 16%;
+  height: 16%;
+}
+p{
+  font-family: 'Rubik', sans-serif;
+}
+h2{
+  font-family: 'Cookie', cursive;
+}
+h1{
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  font-size: 100px;
 }
